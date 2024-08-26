@@ -1,0 +1,90 @@
+        body {
+            width: 173vh;
+            height: 97.0vh;
+            background-size: 100rem;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: right center;
+            background-image: url(https://de2.sportal365images.com/process/smp-betway-images/betway.com/29072023/fde809a1-6ff8-431d-8212-ebab832fd443.jpg);
+        }
+        
+        .jogador {
+            padding: 50px;
+            border-radius: 15px;
+            background-color: rgba(141, 141, 141, 0.8);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 90px;
+            border-radius: 15px;
+            color: white;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            text-align: center left;
+        }
+        
+        div {
+            display: flex;
+        }
+        
+        .jogador {
+            display: block;
+        }
+        
+        div {
+            display: flexbox;
+        }
+        
+        #curry {
+            width: 250px;
+            height: 192px;
+        }
+        
+        #nomecurry {
+            margin-left: 200px;
+        }
+        
+        #nomewemby {
+            margin-left: 200px;
+        }
+        
+        #wemby {
+            width: 250px;
+            height: 192px;
+        }
+        
+        #ja {
+            width: 230px;
+            height: 192px;
+        }
+        
+        #lebron {
+            width: 230px;
+            height: 192px;
+        }
+        
+        .botao {}
+        
+        #botao {
+            font-family: fantasy;
+            padding: -50px;
+            border-radius: 15px;
+            width: 200px;
+            margin-left: 10px;
+            font-size: 2rem;
+            height: -5rem;
+            color: black;
+            margin-top: -40px;
+            margin-right: 10px;
+            display: flex;
+            margin-left: 20rem;
+        }
+        
+        #jogador {
+            color: black;
+            font-size: 2rem;
+            margin-top: -4rem;
+        }
